@@ -15,6 +15,7 @@ public class day2 {
 	@BeforeTest
 	public void prerequiste()
 	{
-		System.out.println("I will execute first");
+		System.out.println("I will execute first.");
+		System.out.println("I will execute second.");
 	}
 }
