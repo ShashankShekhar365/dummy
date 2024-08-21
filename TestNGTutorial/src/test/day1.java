@@ -30,8 +30,9 @@ public class day1 {
 	@Test
 	public void SecondTest()
 	{
-		System.out.println("bye");
+		System.out.println("bye-bye");
 	}
+	//change
 
 
 
